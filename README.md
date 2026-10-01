@@ -4,4 +4,4 @@ A robotics project developed with mBot2, focusing on programming, sensors, and a
 
 ##mBot2 Parts
 
-![mBot 2 Parts].(images.jpg).
+![mBot 2 Parts](images.jpg)
